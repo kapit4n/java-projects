@@ -1,0 +1,16 @@
+
+# Mail user from
+mail.from="PlayStartApp@yourdomain.com"
+
+# Mail sign
+mail.sign=The PlayStartApp Team
+
+#SMTP host
+play.mailer.host=127.0.0.1
+
+# Don't send emails, print them to log
+play.mailer.mock=true
+
+# Debug on or off
+play.mailer.debug=true
+
